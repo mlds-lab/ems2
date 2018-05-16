@@ -1,0 +1,6 @@
+sh run_master_summarize.sh
+
+sh run_in_serial.sh master_summary_dataframe.pkl ./data/experiment_definitions/daily/
+sh run_in_serial.sh master_summary_dataframe.pkl ./data/experiment_definitions/initial/
+
+python3 standalone_report_generator.py --data-directory ./experiment_results/ --experiment-name basic
