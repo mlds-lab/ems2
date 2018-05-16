@@ -1,0 +1,2141 @@
+{
+    "white-black-list": {
+        "whitelist": [
+            "00ab666c-afb8-476e-9872-6472b4e66b68",
+            "02e82ef0-acb8-4366-8c83-4c3f2f69f7ea",
+            "03996723-2411-4167-b14b-eb11dfc33124",
+            "03c26210-7c9f-4bf2-b1c2-59d0bd64ffac",
+            "03ec3750-641a-4039-8b5d-74b485bde1ea",
+            "055bed5b-60ec-43e6-9110-137f2a36d65b",
+            "059a9d92-4d36-40cb-84cc-408f9210821b",
+            "07a34e07-8ee4-434b-8c09-6cb197451464",
+            "0990887a-6163-4c80-9c9e-468ea2598202",
+            "0a11d9aa-1e9c-4f5e-94cf-faa6e796a855",
+            "0c824653-a13b-4a4e-b907-660f1d8f8981",
+            "110a98b6-ef01-44b2-a19c-9ab8db1dd6fa",
+            "13555453-55fc-4b13-8b32-b49dfcc9a8f0",
+            "135c9c3b-a5cf-47a4-9fcf-4fc418c5eb96",
+            "136f8891-af6f-49c1-a69a-b4acd7116a3c",
+            "15d069af-7a36-4c33-8693-cc814845b9c3",
+            "166b9e2f-08a1-425f-9617-875d6ad3f834",
+            "16db9568-bd11-494f-b712-28a2266ea3d0",
+            "176dfa9b-725b-4813-9219-005041320db4",
+            "17b07883-4959-4037-9b80-dde9a06b80ae",
+            "1b524925-07d8-42ea-8876-ada7298369ec",
+            "1bdf0668-a632-4290-ad94-c6269f9e924a",
+            "1c47637b-d4a1-432f-9810-b6e2daea0a43",
+            "20a07a1c-ee7e-4958-a2c8-0db6e4fe0ce9",
+            "24809752-2bcd-424f-aac1-5d909026b0c4",
+            "24e24816-b56b-4c16-9e6d-0ae8afc8650f",
+            "260f551d-e3c1-475e-b242-f17aad20ba2c",
+            "26d5159f-ca0f-4537-a97d-8ddda3c95f8a",
+            "26eeb04e-ab64-45b2-bb12-7aff7a779f9a",
+            "2946b01f-4cda-4f69-9b3f-24aed26c4d15",
+            "2b4ae7c4-ee25-4588-a0cd-bffb64a07f7f",
+            "2bc2ade2-b154-4412-878c-98466a00ba7b",
+            "2d954abb-e11a-4f25-8f12-19a210c8d8e1",
+            "2f256f48-8336-4846-9362-7349ae648dc5",
+            "323cc961-5f66-4273-9d46-6097bc692269",
+            "326a6c55-c963-42c2-bb8a-2591993aaaa2",
+            "34192284-e4f1-4420-ab35-0eb02ce2e8d1",
+            "34223626-fab9-48f5-82bd-0b0037745994",
+            "342d9d87-787d-4836-9f61-4d59ed9f3289",
+            "34521ae7-012a-400f-8794-3d76ff4e70ab",
+            "35daf881-da7c-4779-a8e9-20a3985094e2",
+            "35fff957-2ad7-40e6-b57a-30235da5c9a9",
+            "360dda05-d7a7-4ec3-8988-256bb6381cda",
+            "36caadf6-9bd5-4bac-9f13-75d2f439b4de",
+            "36f6e239-816a-4508-9126-3b612741c26d",
+            "37733a30-f84c-416d-977f-ac3a5b2a68c4",
+            "3833df3d-dc81-4467-bdd9-16a7d99f7edb",
+            "3893e3e7-24b7-45f3-90e8-e9ca6114e83f",
+            "3aa0bbf3-e880-4a78-8a97-de9834b2eb18",
+            "3b4966d8-f38a-46cc-ba12-4f059b753241",
+            "3b4f130b-0287-42ac-975d-ecd4f7377b0f",
+            "3b9ff2e4-dfec-4022-8994-1a0c4db7227a",
+            "3ca29402-0a0d-4f08-8f6c-5b57672809f6",
+            "3d635e50-7f62-444d-b302-8131aae56104",
+            "3ea4837f-104a-44d3-a006-4bc586c0f829",
+            "3f38d579-66fa-4126-b269-3f4e1ee42b39",
+            "407d6e31-ffbd-4e84-97ab-54b2ff396823",
+            "41bf78e2-4791-4d2e-9459-22f401074964",
+            "42ded059-c890-42e1-adb8-4b339d0879b5",
+            "44e31af4-7a40-4124-8dc4-d14b12dd66c7",
+            "45a86c85-0bd3-4f3f-bcdc-2b27cd539288",
+            "472c78e7-d814-4f61-9128-336d13fb9a0f",
+            "4ac3f410-c8fd-4cf6-a065-405683c27499",
+            "4b0f6e44-14a3-4cd9-abab-e279af6f45c6",
+            "4d7d8db6-d135-4db5-a718-11582822ff1a",
+            "5034a63c-298d-4d16-bfd7-7510c09b78d3",
+            "50846a75-cde7-44d0-878d-bedc39726f75",
+            "5134cb88-3e01-4861-a585-395201e803c9",
+            "51ebb070-7d34-40b3-8520-55d2e318438a",
+            "53b45c45-9ca0-4ec9-b54d-90ffdfec0c38",
+            "53db5d5c-fe90-47d1-8252-c05566bf03e7",
+            "55675812-1eac-44e0-a57d-30a5a9ae083e",
+            "56b8d410-341c-4e90-ad7c-3e8bf1cbb0b6",
+            "583dc6e7-fabe-4d2a-b633-4ad5aea67f8c",
+            "58ec107b-68e2-4742-a497-d8d4af1523ee",
+            "5aeb56d6-af68-4189-a8ec-1f8d8a0c9e02",
+            "5af23884-b630-496c-b04e-b9db94250307",
+            "5b1ab5af-701b-4717-9c43-98ab90a89325",
+            "5cd4f692-3b13-4728-9df3-debc682e42dd",
+            "61519ad0-2aea-4250-9a82-4dcdb93a569c",
+            "622bf725-2471-4392-8f82-fcc9115a3745",
+            "63f5e202-6b13-491a-bdfc-9f13b7e4c036",
+            "65df4c37-b8a5-443d-b488-4b92ecc891d0",
+            "66a5cdf8-3b0d-4d85-bdcc-68ae69205206",
+            "6770c699-3b3c-4333-b70a-b7e7d839e38b",
+            "67aeb5af-38f7-4949-b59f-608896d20077",
+            "682564cb-62be-40ff-b5f6-0f53924d37e3",
+            "6b6cee83-d69e-4a7a-b959-ee2de109d907",
+            "6b74bbc2-128a-4206-82e1-eaec79579c51",
+            "7260c523-b2d5-4bdc-a831-96b4815dca00",
+            "77131a79-5ccb-4df8-afa4-14c71d4048b8",
+            "7b8358f3-c96a-4a17-87ab-9414866e18db",
+            "805f3a7b-a197-4834-a4e4-a56da3dde6b1",
+            "814e0cc2-ed93-4e72-af35-40a41cef21cd",
+            "83e9c0b8-b6a7-4c19-8deb-2bca29b93139",
+            "83ff3fe4-b456-47ac-a5fa-1d152f900235",
+            "84f93536-ce17-41eb-9241-10d4b91fd97f",
+            "862ab494-446d-43f6-b752-af51e938547e",
+            "879233b3-262c-4b19-a344-f4d595d08d26",
+            "8861a2f4-80be-4c62-8c1e-252efad26ccc",
+            "8a3533aa-d6d4-450c-8232-79e4851b6e11",
+            "8aa1bd02-ee43-4e9d-b7f7-7ddc66b607f9",
+            "8acefded-803b-4cf3-9829-18bd5508f907",
+            "8b73cf24-6579-4a9f-b7db-62317feb4d58",
+            "8c2f443e-b329-42f2-a1cf-31c150be47e0",
+            "8c9f9374-4398-4b3c-92b7-2c66dc4fcbd5",
+            "8cee7fce-00d0-45f1-81fe-b24bb7176679",
+            "8d458ff0-0ed3-446d-bd87-cd23dae0a05f",
+            "8fcc208a-30e9-49dc-b9de-51e6819a50b7",
+            "900b0dc1-b236-4364-bbab-0371af4eef84",
+            "9187dcd7-7b5c-4633-ae73-af8200f1dfba",
+            "9324c6d7-3fdc-4614-8199-0c102f1b67c0",
+            "942445c5-eb52-4128-98ca-0fbb5dd6aca4",
+            "948b8d17-35af-40cc-aa50-70a12b56e433",
+            "94eb0755-56a3-4235-b759-8dc2ced70875",
+            "95085684-88ec-4d2a-8eba-a38268018193",
+            "9580deeb-f28e-42e9-a877-1a6e1cea3dff",
+            "95a070a7-086b-4f3d-a5ba-0a877f7fabf7",
+            "9658fd5d-f8bf-4fd3-ba8d-6e40776039de",
+            "985b1b37-40be-49aa-9df1-31aff97dfb1a",
+            "9a917ae9-8e47-4eaf-aaff-e82bfc9f7d6b",
+            "9b7483ba-9c6f-4c67-bf48-549384ac66c7",
+            "9d7b2444-3411-4252-aa07-fdd2b1aa60ad",
+            "9e4aeae9-8729-4b0f-9e84-5c1f4eeacc74",
+            "9f5be69d-028c-4020-8140-439e652e2343",
+            "a173be18-19f9-4485-8143-0ac56b45b1eb",
+            "a262930d-17eb-4053-840c-a8f9fb035a00",
+            "a54d9ef4-a46a-418b-b6cc-f10b49a946ac",
+            "a60bbc2d-4d45-4896-b533-15c2cd54cf60",
+            "a6c16f12-0987-4690-87fe-336710f96398",
+            "a73e8ebf-1c4d-4a05-acf7-8b834b1f3b85",
+            "a8049cb2-a13b-48f7-abe3-cf42f60368aa",
+            "aa45a425-2c17-46de-8bc8-cbe080158c80",
+            "ab6ffd82-1f4f-448a-a4a2-b0d8e861fc81",
+            "ac9b4778-0bb5-4384-b4ed-3a5738ba99a4",
+            "ae4e4f1a-098a-4906-a2c9-78a68f4cdd14",
+            "af8c78cf-7d82-44f0-a277-abe61896b015",
+            "b00fe5cd-a973-4f16-93e1-b15b5ea1d7e2",
+            "b0d888c3-f3d3-4e5c-9dce-bbcb4c15ac58",
+            "b1ea5c54-3b28-46c7-bc3a-8dab91d73d6a",
+            "b3aed23e-d863-4a87-8c38-309cf958f930",
+            "b43f7bd1-6472-4767-a175-d943f595e9ff",
+            "b8bbd940-ba64-474c-bfea-37e578fc2133",
+            "ba79fc54-e083-40e7-ae36-fae72980f2d0",
+            "bbc41a1e-4bbe-4417-a40c-64635cc552e6",
+            "bedb175f-d70a-41c0-91f4-573f7b22f675",
+            "c1f31960-dee7-45ea-ac13-a4fea1c9235c",
+            "c271feb1-dac7-4940-9ef0-cf4de3a6b1db",
+            "c2b6746a-5780-47c2-bee3-db18bfccd409",
+            "c4c0c196-c6a7-41fd-bdf1-99002be6e841",
+            "c5677eca-f00e-45af-ab0c-7388438c85e3",
+            "c696b0e8-299f-4270-9218-25f973bc64b4",
+            "c73670a9-16ca-43bb-b7b9-110558e31798",
+            "c7c1cc61-27fa-4bfd-bdef-f3e04c527987",
+            "c81cafe4-2589-4207-b8ba-6abbc2e311c2",
+            "c93a811e-1f47-43b6-aef9-c09338e43947",
+            "c9b351d9-124b-4119-8be8-cb7c0f7e7994",
+            "c9b4e8d8-34f7-474b-9233-db1d945d8fa0",
+            "cd6f425b-92fe-4bdf-b277-53a558fc7c27",
+            "d1cf1b0a-c3b8-45cc-93bc-792f820f3e92",
+            "d2bb3e13-9a98-45e0-8b3d-71b3b89e598f",
+            "d3268d64-57ae-4060-937a-7980cdc5ffcd",
+            "d36edb42-c422-41b4-b82f-594d8f3850be",
+            "d3af01d0-31b7-4fd9-af11-83b7bd594b12",
+            "d3d33d63-101d-44fd-b6b9-4616a803225d",
+            "d41622a7-9fe7-4f6c-9e19-62b431c9e36b",
+            "d4691f19-57be-44c4-afc2-5b5f82ec27b5",
+            "d72be89a-68d7-4ca8-bb97-1cb9be776001",
+            "d7eb1a8a-344d-463c-a660-9b4ef56a8b63",
+            "d83ac187-97cd-4ee0-a35f-5a1ffe6c7885",
+            "d9aa9a5c-e496-4da7-ab67-adabc1f37c72",
+            "da66d9bb-0d61-4a3a-afbd-792ac93ebddf",
+            "dc9199c5-f484-4da4-8bf4-de8319628d35",
+            "dd0b3f2a-d12e-4d58-ae4f-17b3ce7f95a4",
+            "dd13f25f-77a0-4a2c-83af-bb187b79a389",
+            "dde1ede1-50cc-4ce5-9f4a-fdd3a8f1e3dc",
+            "df11d649-9c87-4802-b602-ec97c3e868b1",
+            "df2b2506-6a64-4f94-8b7c-171a373387a3",
+            "e0830d00-bcac-4084-893a-3b61de64ecf6",
+            "e0f51af7-56c6-4c0e-9f0a-6c34ec0ff98a",
+            "e118d556-2088-4cc2-b49a-82aad5974167",
+            "e2ee5efe-d9cf-482c-8c73-a895185e3524",
+            "e3c665c2-f7b6-4be6-99a4-197af6f01bdf",
+            "e3d59499-2840-4a2c-81fc-19f8f12f0a65",
+            "e4e6552b-35bf-4df8-8302-c9cc304d34f1",
+            "e6b87c27-0b3b-4851-8fb6-7c366a6af508",
+            "ea8ee8f7-b950-4cbb-95f7-c87da15d3e82",
+            "eb351488-1a8b-4521-831d-9d9d0d1dc208",
+            "ecfb8b5b-9e00-4faf-98f6-1e5d42140e3b",
+            "ee641ee3-b4b9-4a2f-8394-ebda81037fe4",
+            "f16d63b1-c63a-42e0-80c9-aa18ec513da3",
+            "f2a3349e-b223-4d54-b7a1-c09664d7d91b",
+            "f44b2de7-97bc-4539-8515-f110feec479d",
+            "f486f8c2-ea21-4909-9af3-9cd2ff1638bc",
+            "f4aafd07-9711-4850-a6b6-63efa2fe25c6",
+            "f5abb4f1-ad31-4964-988c-14769501a8f7",
+            "f611477f-7b2e-4f36-81da-c6cdee27d7a1",
+            "f744e739-4b60-4f0e-95a5-42c9f2042f1a",
+            "f77f3c8b-49e6-44fe-92a1-c0b07bbea9e9",
+            "f9351b3e-e4de-4d94-b3bc-98786d35906b",
+            "fbd7bc95-9f42-4c2c-94f4-27fd78a7273c",
+            "fe84e1e8-87b7-463b-99e4-2e492576ccbd",
+            "febb3cef-56cc-4f40-b7c2-7c2663b0dc33"
+        ],
+        "type": "list"
+    },
+    "prediction": {
+        "subjects": [],
+        "data-range": {
+            "end-time": "",
+            "start-time": "all"
+        }
+    },
+    "models": [
+        {
+            "hyperparameters": {
+                "lbda": [
+                    1e-05,
+                    0.0001,
+                    0.001,
+                    0.1,
+                    1
+                ],
+                "alpha": [
+                    100000,
+                    10000,
+                    1000,
+                    100,
+                    10,
+                    1
+                ]
+            },
+            "type": "LinearRegression"
+        }
+    ],
+    "loss-function": "mse",
+    "experiment-type": "daily",
+    "compound-streams": [],
+    "target": {
+        "name": "org.md2k.data_qualtrics.feature.v12.irb.d"
+    },
+    "data-range": {
+        "end-time": "",
+        "start-time": "all"
+    },
+    "marker-streams": [
+        {
+            "name": "org.md2k.data_analysis.feature.activity_features.high_activity.daily",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.activity_features.high_activity.hourly&amount_of_high_activity",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.activity_features.high_activity.hourly&amount_of_data",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.activity_features.high_activity.imputed_by_time_day_of_week.daily",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.activity_features.high_activity.imputed_time_of_day.daily",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.activity_features.moderate_activity.daily",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.activity_features.moderate_activity.hourly&amount_of_moderate_activity",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.activity_features.moderate_activity.hourly&amount_of_data",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.activity_features.moderate_activity.imputed_time_of_day.daily",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.activity_features.walking.daily",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.activity_features.walking.hourly&amount_of_walking",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.activity_features.walking.hourly&amount_of_data",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.activity_features.walking.imputed_by_time_day_of_week.daily",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.activity_features.walking.imputed_time_of_day.daily",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.activity_type",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_conservative_office_arrival_times&deviation",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_conservative_office_arrival_times_from_beacon&deviation",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_conservative_office_staying_times&office_staying_time",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_conservative_office_staying_times&deviation",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_conservative_office_staying_times_from_beacon&staying_time_around_beacon",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_conservative_office_staying_times_from_beacon&deviation",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_liberal_office_arrival_times&deviation",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_liberal_office_arrival_times_from_beacon&deviation",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_liberal_office_staying_times&office_staying_time",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_liberal_office_staying_times&deviation",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_liberal_office_staying_times_from_beacon&staying_time_around_beacon",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_liberal_office_staying_times_from_beacon&deviation",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.maximum_distance_covered",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.maximum_distance_from_home",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.number_of_different_places",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.office_arrival_times&deviation",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.office_arrival_times_from_beacon&deviation",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.office_staying_times&office_staying_time",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.office_staying_times&deviation",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.office_staying_times_from_beacon&staying_time_around_beacon",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.office_staying_times_from_beacon&deviation",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.ambient_light.day.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.ambient_light.day.variance",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.ambient_light.four_hour.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.ambient_light.four_hour.variance",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.ambient_light.hour.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.ambient_light.hour.variance",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Books_Reference.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Books_Reference.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Books_Reference.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Books_Reference.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Books_Reference.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Books_Reference.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Books_Reference.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Books_Reference.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Communication.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Communication.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Communication.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Communication.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Communication.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Communication.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Communication.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Communication.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Education.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Education.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Education.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Education.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Education.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Education.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Education.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Education.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Entertainment.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Entertainment.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Entertainment.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Entertainment.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Entertainment.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Entertainment.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Entertainment.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Entertainment.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Finance.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Finance.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Finance.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Finance.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Finance.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Finance.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Finance.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Finance.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Food_Drink.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Food_Drink.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Food_Drink.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Food_Drink.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Food_Drink.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Food_Drink.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Food_Drink.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Food_Drink.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Game.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Game.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Game.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Game.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Game.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Game.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Game.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Game.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Health_Fitness.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Health_Fitness.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Health_Fitness.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Health_Fitness.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Health_Fitness.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Health_Fitness.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Health_Fitness.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Health_Fitness.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Lifestyle.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Lifestyle.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Lifestyle.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Lifestyle.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Lifestyle.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Lifestyle.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Lifestyle.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Lifestyle.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Maps_Navigation.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Maps_Navigation.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Maps_Navigation.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Maps_Navigation.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Maps_Navigation.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Maps_Navigation.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Maps_Navigation.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Maps_Navigation.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Music_Audio.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Music_Audio.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Music_Audio.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Music_Audio.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Music_Audio.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Music_Audio.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Music_Audio.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Music_Audio.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.News_Magazines.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.News_Magazines.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.News_Magazines.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.News_Magazines.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.News_Magazines.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.News_Magazines.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.News_Magazines.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.News_Magazines.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Personalization.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Personalization.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Personalization.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Personalization.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Personalization.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Personalization.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Personalization.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Personalization.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Photography.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Photography.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Photography.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Photography.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Photography.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Photography.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Photography.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Photography.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Productivity.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Productivity.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Productivity.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Productivity.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Productivity.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Productivity.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Productivity.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Productivity.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Shopping.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Shopping.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Shopping.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Shopping.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Shopping.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Shopping.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Shopping.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Shopping.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Social.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Social.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Social.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Social.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Social.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Social.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Social.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Social.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Sports.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Sports.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Sports.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Sports.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Sports.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Sports.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Sports.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Sports.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Tools.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Tools.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Tools.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Tools.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Tools.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Tools.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Tools.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Tools.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Travel_Local.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Travel_Local.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Travel_Local.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Travel_Local.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Travel_Local.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Travel_Local.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Travel_Local.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Travel_Local.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.VideoPlayers_Editors.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.VideoPlayers_Editors.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.VideoPlayers_Editors.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.VideoPlayers_Editors.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.VideoPlayers_Editors.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.VideoPlayers_Editors.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.VideoPlayers_Editors.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.VideoPlayers_Editors.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Weather.all_context.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Weather.all_context.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Weather.home.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Weather.home.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Weather.outside.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Weather.outside.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Weather.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.Weather.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.work.per_hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.app_usage.work.total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.call.day.count",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.call.day.entropy",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.call.four_hour.count",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.call.four_hour.entropy",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.call.hour.count",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.call.hour.entropy",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.call_duration.day.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.call_duration.day.variance",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.call_duration.four_hour.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.call_duration.four_hour.variance",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.call_duration.hour.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.call_duration.hour.variance",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.call_sms.day.count",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.call_sms.day.entropy",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.call_sms.four_hour.count",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.call_sms.four_hour.entropy",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.call_sms.hour.count",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.call_sms.hour.entropy",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.inter_event_phone_call_sms_time.day.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.inter_event_phone_call_sms_time.day.variance",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.inter_event_phone_call_sms_time.four_hour.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.inter_event_phone_call_sms_time.four_hour.variance",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.inter_event_phone_call_sms_time.hour.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.inter_event_phone_call_sms_time.hour.variance",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.inter_event_phone_call_time.day.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.inter_event_phone_call_time.day.variance",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.inter_event_phone_call_time.four_hour.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.inter_event_phone_call_time.four_hour.variance",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.inter_event_phone_call_time.hour.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.inter_event_phone_call_time.hour.variance",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.inter_event_sms_time.day.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.inter_event_sms_time.day.variance",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.inter_event_sms_time.four_hour.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.inter_event_sms_time.four_hour.variance",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.inter_event_sms_time.hour.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.inter_event_sms_time.hour.variance",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.sms.day.count",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.sms.day.entropy",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.sms.four_hour.count",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.sms.four_hour.entropy",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.sms.hour.count",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.sms.hour.entropy",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.sms_length.day.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.sms_length.day.variance",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.sms_length.four_hour.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.sms_length.four_hour.variance",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.sms_length.hour.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.sms_length.hour.variance",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.touch_response_time.variance.hour",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.radius_of_gyration",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.routine_index",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.sleep&duration",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.sleep_durations",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.sleep_duration_analysis&duration",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.sleep_duration_analysis&deviation",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.standard_deviation_of_displacements",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.stress.respiration.60seconds.v3",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.stress.wrist.60seconds.v1",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.stress.wrist.likelihood.60minutes.v1",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.stress.wrist.likelihood.60seconds.v1",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.task_features.activity_office_beacon_context_fraction.per_hour&activity_time",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.task_features.activity_office_context_fraction.per_hour&activity_time",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.task_features.posture_office_beacon_context_fraction.per_hour&posture_time",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.task_features.posture_office_context_fraction.per_hour&posture_time",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.total_distance_covered",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.to_home_transitions",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.to_work_transitions",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.typing.episodes.day",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.v0.audio.voice.day.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.v0.audio.voice.hour.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.v1.audio.voice_segments_office.day.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.v1.audio.voice_segments_office.hour.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.v2.audio.voice_segments.day.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.v2.audio.voice_segments.hour.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.v2.audio.voice_segments_office.day.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.v2.audio.voice_segments_office.hour.average",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.v2.typing.episodes.day",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.v6.beacon.home_beacon_context",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.v6.beacon.work_beacon_context",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.scripts.environment_data.weather&wind_deg",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.scripts.environment_data.weather&wind_speed",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.scripts.environment_data.weather&current_temp",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.scripts.environment_data.weather&max_temp",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.scripts.environment_data.weather&min_temp",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.scripts.environment_data.weather&humidity",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.scripts.environment_data.weather&clouds",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.v1.feature.cumulative_staying_time.entertainment",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.v1.feature.cumulative_staying_time.home",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.v1.feature.cumulative_staying_time.work",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.v1.feature.cumulative_staying_time.worship",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.v1.feature.cumulative_staying_time.school",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.v1.feature.cumulative_staying_time.store",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.v1.feature.cumulative_staying_time.sport",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.v1.feature.cumulative_staying_time.restbar",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.v1.feature.phone.driving_total.day&value",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.v1.feature.phone.call.day.initiated&percent",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.v1.feature.phone.sms.day.initiated&percent",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.callsms.day.initiated",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.touch_rate.day&value",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.task_features.sitting_office_context_totaltime_and_fraction_per_hour.daily&posture_time_total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.task_features.sitting_office_context_totaltime_and_fraction_per_hour.daily&posture_time_fraction",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.task_features.sitting_office_beacon_context_totaltime_and_fraction_per_hour.daily&posture_time_total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.task_features.sitting_office_beacon_context_totaltime_and_fraction_per_hour.daily&posture_time_fraction",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.task_features.standing_office_context_totaltime_and_fraction_per_hour.daily&posture_time_total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.task_features.standing_office_context_totaltime_and_fraction_per_hour.daily&posture_time_fraction",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.task_features.standing_officebeacon_context_totaltime_and_fraction_per_hour.daily&posture_time_total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.task_features.standing_officebeacon_context_totaltime_and_fraction_per_hour.daily&posture_time_fraction",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.task_features.walking_officebeacon_context_totaltime_and_fraction_per_hour.daily&activity_time_total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.task_features.walking_officebeacon_context_totaltime_and_fraction_per_hour.daily&activity_time_fraction",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.task_features.walking_office_context_totaltime_and_fraction_per_hour.daily&activity_time_fraction",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.task_features.walking_office_context_totaltime_and_fraction_per_hour.daily&activity_time_total",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_conservative_office_staying_times&verdict_int",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_conservative_office_arrival_times_from_beacon&verdict_int",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_liberal_office_arrival_times&verdict_int",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_conservative_office_arrival_times_from_beacon&verdict_int",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_liberal_office_arrival_times_from_beacon&verdict_int",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_conservative_office_arrival_times&verdict_int",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_conservative_office_staying_times_from_beacon&verdict_int",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_liberal_office_staying_times&verdict_int",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_liberal_office_staying_times_from_beacon&verdict_int",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.expected_conservative_office_staying_times_from_beacon&verdict_int",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.office_arrival_times&verdict_int",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.office_arrival_times_from_beacon&verdict_int",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.office_staying_times&verdict_int",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.office_staying_times_from_beacon&verdict_int",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.working_days_ems",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.working_days_from_beacon_ems",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.sleep_duration_analysis&verdict_int",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.typing_episodes&duration",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.all_days.typing_pause.parameters&mean",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.all_days.typing_pause.parameters&standard_deviation",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.all_days.reading_typing.parameters&mean",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.all_days.reading_typing.parameters&standard_deviation",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.all_days.active_typing.parameters&mean",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.all_days.active_typing.parameters&standard_deviation",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.cyberslacking.burstiness.all_apps",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.cyberslacking.burstiness.communication",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.cyberslacking.burstiness.social",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.cyberslacking.interval.all_apps",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.cyberslacking.interval.communication",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.cyberslacking.interval.social",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.cyberslacking.volume.all_apps",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.cyberslacking.volume.communication",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.cyberslacking.volume.social",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.driving_total.day&value",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.bicycle_total.day&value",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.still_total.day&value",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.on_foot_total.day&value",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.tilting_total.day&value",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.walking_total.day&value",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.running_total.day&value",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        },
+        {
+            "name": "org.md2k.data_analysis.feature.phone.unknown_total.day&value",
+            "duration-type": "point",
+            "summarization-function": "stats"
+        }
+    ]
+}
